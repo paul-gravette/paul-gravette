@@ -23,8 +23,9 @@ RSS_FEEDS = [
 
 # Fallback flagship list if API unavailable
 DEFAULT_REPOS = [
+    ("pe-operating-kit", "Templates PE operators and CEOs actually use — 100-day plans, board/LP updates, diligence"),
     ("operator-playbook", "Practical checklists for operators shipping companies"),
-    ("launch-checklist", "Distribution and launch playbook for founders"),
+    ("launch-checklist", "Distribution and launch playbook for founders and portfolio teams"),
 ]
 
 MAX_POSTS = 5

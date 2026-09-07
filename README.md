@@ -4,15 +4,35 @@
   Markers below are replaced by the workflow — do not remove them.
 -->
 
-### Operator · Investor · Builder
+### Operator · Investor · Resource hub for CEOs & PE
 
-I invest as an operator through **[Gravette Capital](https://www.paulgravette.com)** — health, wellness, longevity, and the companies reshaping how we live and work.
+I invest and operate through **[Gravette Capital](https://www.paulgravette.com)** — health, wellness, longevity, and the companies reshaping how we live and work.
 
-Writing and deal notes live on **[paulgravette.com](https://www.paulgravette.com)**. This profile is the working side: playbooks, templates, and tools you can actually use.
+This GitHub is built as a **working library** for people who run and own businesses:
+
+| Audience | What you’ll find here |
+|----------|------------------------|
+| **CEOs & founders** | Operating cadence, launch discipline, decision memos |
+| **PE operators & deal teams** | 100-day plans, diligence questions, value-creation templates |
+| **LPs & serious investors** | Board/LP update outlines and how operators report what matters |
+
+Long-form writing and deal notes live on **[paulgravette.com](https://www.paulgravette.com)**. The repos below are the tools — short, copy-paste ready, no theater.
 
 **Currently focused on:** <!--FOCUS:START-->
-PE deal insight, AI operators, and shipping useful public repos
+Value creation playbooks, CEO operating cadence, and PE diligence tools CEOs and investors can use Monday morning
 <!--FOCUS:END-->
+
+---
+
+### Resource library
+
+<!--REPOS:START-->
+- **[pe-operating-kit](https://github.com/paul-gravette/pe-operating-kit)** — Templates PE operators and CEOs actually use — 100-day plans, board/LP updates, diligence
+- **[operator-playbook](https://github.com/paul-gravette/operator-playbook)** — Practical checklists for operators shipping companies
+- **[launch-checklist](https://github.com/paul-gravette/launch-checklist)** — Distribution and launch playbook for founders and portfolio teams
+<!--REPOS:END-->
+
+Start with the kit if you own P&L or a portfolio company. Use the playbook for weekly rhythm. Use the launch checklist when “we shipped” needs to mean “someone found it.”
 
 ---
 
@@ -26,16 +46,7 @@ PE deal insight, AI operators, and shipping useful public repos
 - [Goldman Sachs Just Told You What SpaceX Is Really Building](https://www.paulgravette.com/business/goldman-sachs-just-told-you-what-spacex-is-really-building)
 <!--POSTS:END-->
 
-[Subscribe to the newsletter →](https://www.paulgravette.com/newsletter-signup)
-
----
-
-### Flagship repos
-
-<!--REPOS:START-->
-- **[launch-checklist](https://github.com/paul-gravette/launch-checklist)** — Distribution and launch playbook for founders
-- **[operator-playbook](https://github.com/paul-gravette/operator-playbook)** — Practical checklists for operators shipping companies
-<!--REPOS:END-->
+**[Subscribe to the newsletter →](https://www.paulgravette.com/newsletter-signup)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
 
 ---
 
@@ -47,5 +58,5 @@ PE deal insight, AI operators, and shipping useful public repos
 - X: [@Paul_Gravette](https://twitter.com/Paul_Gravette)
 
 <p align="left">
-  <em>Automation updates this page. No fake commit farming.</em>
+  <em>Automation updates posts and repos on this page. No fake commit farming.</em>
 </p>
