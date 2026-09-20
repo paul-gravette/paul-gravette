@@ -39,11 +39,11 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 ### Latest from the site
 
 <!--POSTS:START-->
+- [Your Reputation Enters the Room First](https://www.paulgravette.com/business/your-reputation-enters-the-room-first)
 - [Don't Reinvent the Wheel. Just Notice It's Flat.](https://www.paulgravette.com/business/dont-reinvent-the-wheel-just-notice-its-flat)
 - [We Are Living in the Golden Age of Entrepreneurship. Most People Haven't Noticed Yet.](https://www.paulgravette.com/business/we-are-living-in-the-golden-age-of-entrepreneurship-most-people-havent-noticed-yet)
 - [32 Months to a Billion: The Grüns Story](https://www.paulgravette.com/business/32-months-to-a-billion-the-grns-story)
 - [Steve Martorano: From Basement Hustle to Italian-American Icon](https://www.paulgravette.com/business/steve-martorano-from-basement-hustle-to-italian-american-icon)
-- [Inside Cove Soda: Why the Soda Aisle Is Changing](https://www.paulgravette.com/business/inside-cove-soda-why-the-soda-aisle-is-changing)
 <!--POSTS:END-->
 
 **[Subscribe to the newsletter →](https://www.paulgravette.com/newsletter-signup)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
