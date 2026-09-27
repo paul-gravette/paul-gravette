@@ -39,11 +39,11 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 ### Latest from the site
 
 <!--POSTS:START-->
+- [Tesla's Flying Roadster Isn't a Product. It's a Belief Machine.](https://www.paulgravette.com/business/teslas-flying-roadster-isnt-a-product-its-a-belief-machine)
 - [Your Reputation Enters the Room First](https://www.paulgravette.com/business/your-reputation-enters-the-room-first)
 - [Don't Reinvent the Wheel. Just Notice It's Flat.](https://www.paulgravette.com/business/dont-reinvent-the-wheel-just-notice-its-flat)
 - [We Are Living in the Golden Age of Entrepreneurship. Most People Haven't Noticed Yet.](https://www.paulgravette.com/business/we-are-living-in-the-golden-age-of-entrepreneurship-most-people-havent-noticed-yet)
 - [32 Months to a Billion: The Grüns Story](https://www.paulgravette.com/business/32-months-to-a-billion-the-grns-story)
-- [Steve Martorano: From Basement Hustle to Italian-American Icon](https://www.paulgravette.com/business/steve-martorano-from-basement-hustle-to-italian-american-icon)
 <!--POSTS:END-->
 
 **[Subscribe to the newsletter →](https://www.paulgravette.com/newsletter-signup)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
