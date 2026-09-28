@@ -17,8 +17,8 @@ FOCUS_FILE = ROOT / "focus.txt"
 # Prefer business + innovation for operator positioning; merge by pubDate.
 RSS_FEEDS = [
     "https://www.paulgravette.com/business?format=rss",
-    "https://www.paulgravette.com/innovation?format=rss",
-    "https://www.paulgravette.com/money?format=rss",
+    "https://www.paulgravette.com/ai-insights?format=rss",
+    "https://www.paulgravette.com/lifestyle?format=rss",
 ]
 
 # Fallback flagship list if API unavailable
