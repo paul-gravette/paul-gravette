@@ -39,11 +39,11 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 ### Latest from the site
 
 <!--POSTS:START-->
+- [GLP-1s Are Quietly Becoming the Most Versatile Drugs in Medicine](https://www.paulgravette.com/lifestyle/glp-1s-are-quietly-becoming-the-most-versatile-drugs-in-medicine)
 - [Tesla's Flying Roadster Isn't a Product. It's a Belief Machine.](https://www.paulgravette.com/business/teslas-flying-roadster-isnt-a-product-its-a-belief-machine)
+- [AI Just Learned to Finish the Job](https://www.paulgravette.com/ai-insights/ai-just-learned-to-finish-the-job)
 - [Your Reputation Enters the Room First](https://www.paulgravette.com/business/your-reputation-enters-the-room-first)
-- [Don't Reinvent the Wheel. Just Notice It's Flat.](https://www.paulgravette.com/business/dont-reinvent-the-wheel-just-notice-its-flat)
-- [We Are Living in the Golden Age of Entrepreneurship. Most People Haven't Noticed Yet.](https://www.paulgravette.com/business/we-are-living-in-the-golden-age-of-entrepreneurship-most-people-havent-noticed-yet)
-- [32 Months to a Billion: The Grüns Story](https://www.paulgravette.com/business/32-months-to-a-billion-the-grns-story)
+- [The Week AI Started Acting on Its Own](https://www.paulgravette.com/ai-insights/the-week-ai-started-acting-on-its-own)
 <!--POSTS:END-->
 
 **[Subscribe to the newsletter →](https://www.paulgravette.com/newsletter-signup)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
