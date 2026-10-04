@@ -39,11 +39,11 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 ### Latest from the site
 
 <!--POSTS:START-->
-- [GLP-1s Are Quietly Becoming the Most Versatile Drugs in Medicine](https://www.paulgravette.com/lifestyle/glp-1s-are-quietly-becoming-the-most-versatile-drugs-in-medicine)
-- [Tesla's Flying Roadster Isn't a Product. It's a Belief Machine.](https://www.paulgravette.com/business/teslas-flying-roadster-isnt-a-product-its-a-belief-machine)
-- [AI Just Learned to Finish the Job](https://www.paulgravette.com/ai-insights/ai-just-learned-to-finish-the-job)
-- [Your Reputation Enters the Room First](https://www.paulgravette.com/business/your-reputation-enters-the-room-first)
-- [The Week AI Started Acting on Its Own](https://www.paulgravette.com/ai-insights/the-week-ai-started-acting-on-its-own)
+- [G-007, arriving soon!](https://www.paulgravette.com/lifestyle/g-007-arriving-soon)
+- [Leopold at Knox: We're Getting Close](https://www.paulgravette.com/business/leopold-at-knox-were-getting-close)
+- [People Who Felt Good About Getting Older Actually Aged Better](https://www.paulgravette.com/lifestyle/people-who-felt-good-about-getting-older-actually-aged-better)
+- [The Biggest IPO in History Is Weeks Away. Here's What I'm Watching.](https://www.paulgravette.com/business/the-biggest-ipo-in-history-is-weeks-away-heres-what-im-watching)
+- [Your Next AI Query Might Be Answered From Space](https://www.paulgravette.com/ai-insights/your-next-ai-query-might-be-answered-from-space)
 <!--POSTS:END-->
 
 **[Subscribe to the newsletter →](https://www.paulgravette.com/newsletter-signup)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
