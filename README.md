@@ -39,11 +39,11 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 ### Latest from the site
 
 <!--POSTS:START-->
+- [AI Just Found a CRISPR-Like System Hiding in Virus DNA](https://www.paulgravette.com/ai-insights/ai-just-found-a-crispr-like-system-hiding-in-virus-dna)
+- [The Tesla Roadster Reveal Is Oct 15. Here's What I'm Watching For.](https://www.paulgravette.com/lifestyle/tesla-roadster-reveal-oct-15)
 - [G-007, arriving soon!](https://www.paulgravette.com/lifestyle/g-007-arriving-soon)
 - [Leopold at Knox: We're Getting Close](https://www.paulgravette.com/business/leopold-at-knox-were-getting-close)
 - [People Who Felt Good About Getting Older Actually Aged Better](https://www.paulgravette.com/lifestyle/people-who-felt-good-about-getting-older-actually-aged-better)
-- [The Biggest IPO in History Is Weeks Away. Here's What I'm Watching.](https://www.paulgravette.com/business/the-biggest-ipo-in-history-is-weeks-away-heres-what-im-watching)
-- [Your Next AI Query Might Be Answered From Space](https://www.paulgravette.com/ai-insights/your-next-ai-query-might-be-answered-from-space)
 <!--POSTS:END-->
 
 **[Subscribe to the newsletter →](https://www.paulgravette.com/newsletter-signup)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
