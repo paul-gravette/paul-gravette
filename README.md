@@ -4,7 +4,9 @@
   Markers below are replaced by the workflow — do not remove them.
 -->
 
-### Operator · Investor · Resource hub for CEOs & PE
+### Paul Gravette
+
+**Entrepreneur ($3+ billion in sales from personally owned companies) | Private Equity | Family Office | Philanthropy**
 
 I invest and operate through **[Gravette Capital](https://www.paulgravette.com)** — health, wellness, longevity, and the companies reshaping how we live and work.
 
