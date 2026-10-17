@@ -48,7 +48,7 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 - [People Who Felt Good About Getting Older Actually Aged Better](https://www.paulgravette.com/lifestyle/people-who-felt-good-about-getting-older-actually-aged-better)
 <!--POSTS:END-->
 
-**[Subscribe to the newsletter →](https://www.paulgravette.com/newsletter-signup)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
+**[Get updates at paulgravette.com →](https://www.paulgravette.com)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
 
 ---
 
@@ -56,7 +56,6 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 
 - Site: [paulgravette.com](https://www.paulgravette.com)
 - LinkedIn: [linkedin.com/in/paulgravette](https://www.linkedin.com/in/paulgravette)
-- Newsletter: [paulgravette.com/newsletter-signup](https://www.paulgravette.com/newsletter-signup)
 - X: [@Paul_Gravette](https://twitter.com/Paul_Gravette)
 
 <p align="left">
