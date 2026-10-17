@@ -66,9 +66,10 @@ def latest_posts() -> list[tuple[str, str]]:
     for feed in RSS_FEEDS:
         try:
             for dt, title, link in parse_rss(fetch(feed)):
-                if link in seen:
+                if link in seen or title.lower() in seen:
                     continue
                 seen.add(link)
+                seen.add(title.lower())
                 all_items.append((dt, title, link))
         except Exception as e:
             print(f"warn: feed {feed}: {e}")
