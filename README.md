@@ -41,11 +41,11 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 ### Latest from the site
 
 <!--POSTS:START-->
-- [The Skills Gap That Stopped Your Idea Is Gone](https://www.paulgravette.com/business/golden-age-01-skills-gap-is-gone)
-- [The Future of Personal Commuting: A Thrust Roadster Owner's View](https://www.paulgravette.com/ai-insights/future-of-personal-commuting-ai)
-- [Stop Looking for One AI That Does Everything](https://www.paulgravette.com/ai-insights/stop-looking-for-one-ai)
-- [AI Just Found a CRISPR-Like System Hiding in Virus DNA](https://www.paulgravette.com/ai-insights/ai-just-found-a-crispr-like-system-hiding-in-virus-dna)
-- [G-007, arriving soon!](https://www.paulgravette.com/lifestyle/g-007-arriving-soon)
+- [The Skills Gap That Stopped Your Idea Is Gone](https://www.paulgravette.com/business/golden-age-01-skills-gap-is-gone?utm_source=github&utm_medium=profile)
+- [The Future of Personal Commuting: A Thrust Roadster Owner's View](https://www.paulgravette.com/ai-insights/future-of-personal-commuting-ai?utm_source=github&utm_medium=profile)
+- [Stop Looking for One AI That Does Everything](https://www.paulgravette.com/ai-insights/stop-looking-for-one-ai?utm_source=github&utm_medium=profile)
+- [AI Just Found a CRISPR-Like System Hiding in Virus DNA](https://www.paulgravette.com/ai-insights/ai-just-found-a-crispr-like-system-hiding-in-virus-dna?utm_source=github&utm_medium=profile)
+- [G-007, arriving soon!](https://www.paulgravette.com/lifestyle/g-007-arriving-soon?utm_source=github&utm_medium=profile)
 <!--POSTS:END-->
 
 **[Get updates at paulgravette.com →](https://www.paulgravette.com/?utm_source=github&utm_medium=profile)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=profile), not spam.
