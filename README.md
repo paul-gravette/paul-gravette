@@ -18,7 +18,7 @@ This GitHub is built as a **working library** for people who run and own busines
 | **PE operators & deal teams** | 100-day plans, diligence questions, value-creation templates |
 | **LPs & serious investors** | Board/LP update outlines and how operators report what matters |
 
-Long-form writing and deal notes live on **[paulgravette.com](https://www.paulgravette.com)**. The repos below are the tools — short, copy-paste ready, no theater.
+Long-form writing and deal notes live on **[paulgravette.com](https://www.paulgravette.com)**. The repos below are the tools — short, copy-paste ready, no theater. They're shared in the open for a community of operators, with a bit of philosophy on how good companies are run and real care for the people who run them.
 
 **Currently focused on:** <!--FOCUS:START-->
 Value creation playbooks, CEO operating cadence, and PE diligence tools CEOs and investors can use Monday morning
