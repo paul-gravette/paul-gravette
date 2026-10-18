@@ -133,7 +133,7 @@ def main() -> None:
     posts = latest_posts()
     repos = flagship_repos()
 
-    posts_md = "\n".join(f"- [{t}]({u})" for t, u in posts) if posts else "_No posts found._"
+    posts_md = "\n".join(f"- [{t}]({u}{'&' if '?' in u else '?'}utm_source=github&utm_medium=profile)" for t, u in posts) if posts else "_No posts found._"
     repos_md = "\n".join(
         f"- **[{name}](https://github.com/paul-gravette/{name})** — {desc}" if desc else f"- **[{name}](https://github.com/paul-gravette/{name})**"
         for name, desc in repos

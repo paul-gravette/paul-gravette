@@ -8,7 +8,7 @@
 
 **Entrepreneur ($3+ billion in sales from personally owned companies) | Private Equity | Family Office | Philanthropy**
 
-I invest and operate through **[Gravette Capital](https://www.paulgravette.com)** — health, wellness, longevity, and the companies reshaping how we live and work.
+I invest and operate through **[Gravette Capital](https://www.paulgravette.com/?utm_source=github&utm_medium=profile)** — health, wellness, longevity, and the companies reshaping how we live and work.
 
 This GitHub is built as a **working library** for people who run and own businesses:
 
@@ -18,7 +18,7 @@ This GitHub is built as a **working library** for people who run and own busines
 | **PE operators & deal teams** | 100-day plans, diligence questions, value-creation templates |
 | **LPs & serious investors** | Board/LP update outlines and how operators report what matters |
 
-Long-form writing and deal notes live on **[paulgravette.com](https://www.paulgravette.com)**. The repos below are the tools — short, copy-paste ready, no theater.
+Long-form writing and deal notes live on **[paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=profile)**. The repos below are the tools — short, copy-paste ready, no theater.
 
 **Currently focused on:** <!--FOCUS:START-->
 Value creation playbooks, CEO operating cadence, and PE diligence tools CEOs and investors can use Monday morning
@@ -48,13 +48,13 @@ Start with the kit if you own P&L or a portfolio company. Use the playbook for w
 - [G-007, arriving soon!](https://www.paulgravette.com/lifestyle/g-007-arriving-soon)
 <!--POSTS:END-->
 
-**[Get updates at paulgravette.com →](https://www.paulgravette.com)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com), not spam.
+**[Get updates at paulgravette.com →](https://www.paulgravette.com/?utm_source=github&utm_medium=profile)** — operator and investor notes from [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=profile), not spam.
 
 ---
 
 ### Elsewhere
 
-- Site: [paulgravette.com](https://www.paulgravette.com)
+- Site: [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=profile)
 - LinkedIn: [linkedin.com/in/paulgravette](https://www.linkedin.com/in/paulgravette)
 - X: [@Paul_Gravette](https://twitter.com/Paul_Gravette)
 
