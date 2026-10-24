@@ -8,6 +8,8 @@
 
 **Entrepreneur ($3+ billion in sales from personally owned companies) | Private Equity | Family Office | Philanthropy**
 
+> **New: [The Builders — Walter Isaacson x Elon Musk](https://www.paulgravette.com/the-builders-elon-musk?utm_source=github&utm_medium=profile)**. What one of the great biographers learned about how builders actually work.
+
 I invest and operate through **[Gravette Capital](https://www.paulgravette.com/?utm_source=github&utm_medium=profile)** — health, wellness, longevity, and the companies reshaping how we live and work.
 
 This GitHub is built as a **working library** for people who run and own businesses:
